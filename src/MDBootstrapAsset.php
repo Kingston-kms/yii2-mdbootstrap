@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2\mdbootstrap;
+namespace kingston\mdbootstrap;
 
 use yii\web\AssetBundle;
 
