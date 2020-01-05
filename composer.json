@@ -2,7 +2,7 @@
     "name": "kingston-kms/yii2-mdbootstrap",
     "description": "Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects",
     "type": "yii2-extension",
-    "keywords": "yii, yii2, bootstrap, bootstrap4, mdbootstrap, yii2-extension, material design",
+    "keywords": ["yii","yii2","bootstrap","bootstrap4","mdbootstrap","yii2-extension","material design"],
     "license": "BSD-3-Clause",
     "authors": [
         {
