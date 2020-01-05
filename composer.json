@@ -2,7 +2,6 @@
     "name": "kingston-kms/yii2-mdbootstrap",
     "description": "Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects",
     "type": "yii2-extension",
-
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -16,5 +15,11 @@
         "yiisoft/yii2": "^2.0",
         "yiisoft/yii2-bootstrap4": "^2.0",
         "npm-asset/mdbootstrap": "^4.11"
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
