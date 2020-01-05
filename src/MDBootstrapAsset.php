@@ -1,5 +1,4 @@
 <?php
-
 namespace kingston\mdbootstrap;
 
 use yii\web\AssetBundle;
