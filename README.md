@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://github.com/yiisoft" target="_blank">
+    <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
+  </a>
+  <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/" target="_blank">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">
+  </a>
+</p>
+
+<h1 align="center">Yii2 Extension with Material Design for Bootstrap 4</h1>
+
+<p align="center">
+
+</p>
+
 # yii2-mdbootstrap
 Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects
 
