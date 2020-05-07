@@ -13,9 +13,9 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii2": "^2.0",
-        "yiisoft/yii2-bootstrap4": "^2.0",
-        "npm-asset/mdbootstrap": "^4.11"
+        "yiisoft/yii2": "~2.0",
+        "yiisoft/yii2-bootstrap4": "~2.0",
+        "npm-asset/mdbootstrap": "~4"
     },
     "repositories": [
         {
