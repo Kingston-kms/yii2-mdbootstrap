@@ -4,6 +4,7 @@
     "type": "yii2-extension",
     "keywords": ["yii","yii2","bootstrap","bootstrap4","mdbootstrap","yii2-extension","material design"],
     "license": "BSD-3-Clause",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Sergey Budnikov",
