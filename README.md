@@ -7,20 +7,20 @@
   </a>
 </p>
 
-<h1 align="center">Yii2 Extension with Material Design for Bootstrap 4</h1>
+<h1 align="center">Yii2 Extension with Material Design for Bootstrap 5</h1>
 
 <p align="center">
 
 </p>
 
-# yii2-mdbootstrap
-Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects
+# yii2-mdb-ui-kit
+Extension to asset MDBootstrap Free with Bootstrap 5 in Yii2 Projects
 
-[![Packagist Version (custom server)](https://img.shields.io/packagist/v/kingston-kms/yii2-mdbootstrap?style=plastic)](https://packagist.org/packages/kingston-kms/yii2-mdbootstrap)
+[![Packagist Version (custom server)](https://img.shields.io/packagist/v/kingston-kms/yii2-mdb-ui-kit?style=plastic)](https://packagist.org/packages/kingston-kms/yii2-mdb-ui-kit)
 
 Demo
 ----
-You can see demo application on http://yii2-mdb-demo.dtkms.ru/
+You can see demo application on http://yii2-mdb-ui-kit.dtkms.ru/
 
 Installation
 ------------
@@ -30,13 +30,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require kingston-kms/yii2-mdbootstrap
+composer require kingston-kms/yii2-mdb-ui-kit
 ```
 
 or add
 
 ```
-"kingston-kms/yii2-mdbootstrap": "*"
+"kingston-kms/yii2-mdb-ui-kit": "*"
 ```
 
 to the require section of your `composer.json` file.
