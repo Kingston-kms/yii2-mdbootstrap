@@ -1,9 +1,10 @@
 {
     "name": "kingston-kms/yii2-mdbootstrap",
-    "description": "Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects",
+    "description": "Extension to asset MDBootstrap Free with Bootstrap 5 in Yii2 Projects",
     "type": "yii2-extension",
-    "keywords": ["yii","yii2","bootstrap","bootstrap4","mdbootstrap","yii2-extension","material design"],
+    "keywords": ["yii","yii2","bootstrap","mdb-ui-kit","bootstrap5","mdbootstrap","yii2-extension","material design"],
     "license": "BSD-3-Clause",
+    "version": "2.0.0",
     "authors": [
         {
             "name": "Sergey Budnikov",
@@ -12,10 +13,10 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.2.0",
         "yiisoft/yii2": "~2.0",
-        "yiisoft/yii2-bootstrap4": "~2.0",
-        "npm-asset/mdbootstrap": "~4"
+        "yiisoft/yii2-bootstrap5": "~2.0",
+        "npm-asset/mdb-ui-kit": "~5"
     },
     "repositories": [
         {
@@ -25,7 +26,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kingston\\mdbootstrap\\": "src"
+            "kingston\\yii2mdbuikit\\": "src"
         }
     }
 }

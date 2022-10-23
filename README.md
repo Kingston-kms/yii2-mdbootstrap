@@ -13,14 +13,14 @@
 
 </p>
 
-# yii2-mdbootstrap
+# Demo
+
+You can see demo application on http://yii2-mdb-demo.dtkms.ru/
+
+# Bootstrap 4: yii2-mdbootstrap
 Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects
 
 [![Packagist Version (custom server)](https://img.shields.io/packagist/v/kingston-kms/yii2-mdbootstrap?style=plastic)](https://packagist.org/packages/kingston-kms/yii2-mdbootstrap)
-
-## Demo
-
-You can see demo application on http://yii2-mdb-demo.dtkms.ru/
 
 ## Installation Bootstrap 4
 
@@ -52,4 +52,39 @@ and register assets in view:
 MDBootstrapAsset::register($this);
 MDBootstrapPluginAsset::register($this);
 ```
-# yii2-mdb-ui-kit
+
+# Bootstrap 5: yii2-mdb-ui-kit
+Extension to asset MDBootstrap Free with Bootstrap 4 in Yii2 Projects
+
+[![Packagist Version (custom server)](https://img.shields.io/packagist/v/kingston-kms/yii2-mdbootstrap?style=plastic)](https://packagist.org/packages/kingston-kms/yii2-mdbootstrap)
+
+## Installation Bootstrap 4
+
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+
+Either run
+
+```
+composer require kingston-kms/yii2-mdbootstrap:~1
+```
+
+or add
+
+```
+"kingston-kms/yii2-mdbootstrap": "~1"
+```
+
+to the require section of your `composer.json` file.
+
+## Usage
+
+Add use statement in your view file:
+```
+use kingston\mdbootstrap\MDBootstrapAsset;
+use kingston\mdbootstrap\MDBootstrapPluginAsset;
+```
+and register assets in view:
+```
+MDBootstrapAsset::register($this);
+MDBootstrapPluginAsset::register($this);
+```
